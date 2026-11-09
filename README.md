@@ -74,7 +74,7 @@ Feel free to explore my repositories to see my work, and reach out if you'd like
   <img src="https://streak-stats.demolab.com/?user=Jeetdas2004&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeetdas2004&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Jeetdas2004&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
 </p>
 
 ---
