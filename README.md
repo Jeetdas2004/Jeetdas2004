@@ -48,7 +48,9 @@ Feel free to explore my repositories to see my work, and reach out if you'd like
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeetdas2004&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
+</p>
 ---
 
 ## 🚀 Featured Projects:
