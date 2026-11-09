@@ -63,9 +63,25 @@ Feel free to explore my repositories to see my work, and reach out if you'd like
 
 ---
 
+
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeetdas2004&show_icons=true&theme=radical&hide_border=true" height="150" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetdas2004&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Langs" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeetdas2004&show_icons=true&theme=dark&rank_icon=github&cache_seconds=1800" alt="Nirupam's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Jeetdas2004&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetdas2004&layout=compact&theme=dark&cache_seconds=1800" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🍕 Random Dev Quote
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
